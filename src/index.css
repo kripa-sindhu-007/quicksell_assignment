@@ -1,0 +1,13 @@
+body {
+  margin: 0; /* Removes default margin from the body */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif; /* Specifies a list of font families to use, with system fonts prioritized */
+  -webkit-font-smoothing: antialiased; /* Improves font rendering on WebKit browsers */
+  -moz-osx-font-smoothing: grayscale; /* Improves font rendering on macOS Firefox */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace; /* Specifies a list of monospace fonts for code elements */
+}
